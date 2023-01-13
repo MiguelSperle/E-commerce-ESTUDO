@@ -69,8 +69,8 @@ export const HeaderContainer = styled.header `
 
    .count-products {
     position: absolute;
-    right: 27px;
-    top: 40px;
+    right: 229px;
+    top: 35px;
     color: red;
     font-size: 0.9rem;
     font-weight: 600;
